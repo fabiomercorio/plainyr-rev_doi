@@ -10,7 +10,7 @@ Implemente doi support.
 The style is almost identical to plainyr-rev.bst, but changes only the sorting
 order.
 
-Author:Vito Fasano <vito.fasano@gmail.com>
+Author:Vito Fasano <vito.fasano@gmail.com> 
 Author: Christian Plessl <christian@plesslweb.ch>
 License: Same license as the plainyr.bst and plainyr-rev.bst style
 Improved plainyr-rev BibTeX style
